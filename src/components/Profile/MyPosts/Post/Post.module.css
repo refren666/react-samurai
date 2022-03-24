@@ -1,0 +1,16 @@
+.post__item {
+    color: #313198;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    border: 1px solid #313198;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.post__item img {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: white;
+}

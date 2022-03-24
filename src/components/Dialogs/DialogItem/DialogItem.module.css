@@ -1,0 +1,29 @@
+.dialogItems  {
+    padding: 5px;
+}
+
+.navLink {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.dialog,
+.active {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.dialog {
+    color: firebrick;
+    text-decoration: none;
+}
+
+.active {
+    color: gold;
+}
+
+.userPhoto {
+    width: 50px;
+}

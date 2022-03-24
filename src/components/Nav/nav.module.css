@@ -1,0 +1,23 @@
+.nav {
+    grid-area: n;
+    background-color: teal;
+    padding: 20px;
+}
+
+.nav__item {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav__item a:hover {
+    color: gold;
+    transition: 1s;
+}
+
+.active {
+    color: gold;
+}
+
+.disabled {
+    background-color: grey;
+}
